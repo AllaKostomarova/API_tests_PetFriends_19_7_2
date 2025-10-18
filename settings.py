@@ -1,4 +1,4 @@
 
-base_email = "a@bk.ru"
-base_password = "12345"
+base_email = "email"
+base_password = "password"
 
